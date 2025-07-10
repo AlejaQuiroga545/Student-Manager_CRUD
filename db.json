@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Bibiana Rojas",
+      "email": "brojas@gmail.com",
+      "phone": "3505668910",
+      "enrollNumber": "5659898",
+      "dateOfAdmission": "2005-11-17"
+    },
+    {
+      "id": "2",
+      "name": "Hector",
+      "email": "hq@outlook.com",
+      "phone": "3568790542",
+      "enrollNumber": "898998",
+      "dateOfAdmission": "2010-05-15"
+    },
+    {
+      "id": "0",
+      "name": "Aleja Débito",
+      "email": "qgale45@gmail.com",
+      "phone": "3142970157",
+      "enrollNumber": "8998989",
+      "dateOfAdmission": "2004-11-16"
+    }
+  ]
+}

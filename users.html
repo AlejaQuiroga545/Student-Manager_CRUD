@@ -1,0 +1,42 @@
+<div class="page-header">
+    <h2>Students List</h2>
+    <button id="add-student-btn" class="btn-add hidden">
+        ADD NEW STUDENT
+    </button>
+</div>
+<div id="users-table-container">
+    <!-- Table will be rendered here -->
+</div>
+
+<style>
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.page-header h2 {
+    color: #333;
+    font-size: 28px;
+}
+
+.btn-add {
+    background: linear-gradient(135deg, #c066ea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: transform 0.2s;
+}
+
+.btn-add:hover {
+    transform: translateY(-2px);
+}
+</style>
